@@ -1,0 +1,5 @@
+* @happydemics/backend
+
+/.github/ @happydemics/devops
+.dockerignore @happydemics/devops
+.tool-versions @happydemics/devops
